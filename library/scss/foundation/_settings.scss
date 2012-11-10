@@ -1,0 +1,27 @@
+// Grid Settings
+
+$rowWidth: 1000px !default;
+$columnGutter: 30px !default;
+$totalColumns: 12 !default;
+$mobileTotalColumns: 4 !default;
+$blockGridElements: 12 !default; // Highest number of block grid elements, Maximum of 24 supported
+
+// Text Direction Settings
+
+$textDirection: ltr !default; // Controls default global text direction, 'rtl' or 'ltr'
+$defaultFloat: left !default; // Change this to 'right' for right-to-left languages
+$defaultOpposite: right !default; // Change this to 'left' for right-to-left languages
+
+@if $textDirection == ltr {
+  $defaultFloat: left;
+  $defaultOpposite: right;
+} @else {
+  $defaultFloat: right;
+  $defaultOpposite: left;
+}
+
+// Media Queries
+
+$screenSmall: 768px !default;
+$screenMedium: 1279px !default;
+$screenXlarge: 1441px !default;

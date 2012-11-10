@@ -1,0 +1,572 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"packarem",
+				"Package Control: Remove Package"
+			],
+			[
+				"sn",
+				"Snippet: html"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"bw",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"cssc",
+				"Sort via CSScomb"
+			],
+			[
+				"csscom",
+				"Sort via CSScomb"
+			],
+			[
+				"Git ",
+				"Git: Log All"
+			],
+			[
+				"Git",
+				"Git: Commit history"
+			],
+			[
+				"Gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gist crea",
+				"Gist: Create Public Gist"
+			],
+			[
+				"GIst",
+				"Gist: Open Gist"
+			],
+			[
+				"GIt",
+				"Git: Push Current Branch"
+			],
+			[
+				"Git push",
+				"Git: Push"
+			],
+			[
+				"Git bran",
+				"Git: Change Branch"
+			],
+			[
+				"Git st",
+				"Git: Status"
+			],
+			[
+				"Git Comm",
+				"Git: Commit"
+			],
+			[
+				"Git stu",
+				"Git: Status"
+			],
+			[
+				"Git add",
+				"Git: Add..."
+			],
+			[
+				"Git comm",
+				"Git: Commit"
+			],
+			[
+				"GIt sta",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"GIt stat",
+				"Git: Status"
+			],
+			[
+				"Git sta",
+				"Git: Status"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Git add ",
+				"Git: Add..."
+			],
+			[
+				"GIt c",
+				"Git: Quick Commit"
+			],
+			[
+				"Git C",
+				"Git: Commit"
+			],
+			[
+				"Package",
+				"Package Control: Remove Package"
+			],
+			[
+				"GIt Quic",
+				"Git: Quick Commit"
+			],
+			[
+				"Git Qui",
+				"Git: Quick Commit"
+			],
+			[
+				"Git Co",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"GIt S",
+				"Git: Status"
+			],
+			[
+				"git ope",
+				"Git: Open..."
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"packea",
+				"Package Control: List Packages"
+			],
+			[
+				"prefixr",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"Fetc",
+				"Fetch: Manage remote files"
+			],
+			[
+				"Pack",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/E/Coding/Webdesign Startpaket/Responsive Frameworks/foundation-master/scss/foundation/mixins/_css-triangle.scss",
+		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/library/scss/_grid.scss",
+		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/functions.php",
+		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/index.php",
+		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/footer.php",
+		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/library/bones.php",
+		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/page.php",
+		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/header.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/uneart/AppData/Local/Temp/fz3temp-1/configuration.php",
+		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/sidebar.php",
+		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/library/scss/_base.scss",
+		"/E/Coding/local-www/drkunst/local",
+		"/E/Coding/local-www/drkunst/test.html",
+		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/library/less/_mixins.less",
+		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/library/less/style.less",
+		"/C/Users/uneart/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/uneart/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/uneart/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/uneart/AppData/Local/Temp/fz3temp-1/scripts.js",
+		"/C/Users/uneart/AppData/Local/Temp/tabelle.zip/Bilder/einpunkt.jpg",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/library/scss/style.scss",
+		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/library/scss/_mixins.scss",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/User/wombat.tmTheme",
+		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/library/less/_grid.less",
+		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/library/css/style.css",
+		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/style.css",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/library/less/_base.less",
+		"/E/Coding/local-www/drkunst/wp-config.php",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/emmet-sublime-master/Preferences.sublime-settings",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/emmet-sublime-master/README.md",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/E/Coding/local-www/drkunst/local-config.php",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/emmet-sublime/Emmet.sublime-settings",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/E/Coding/local-www/drkunst/temp.css",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/emmet-sublime-master/Default (Windows).sublime-keymap",
+		"/E/Coding/local-www/drkunst/test",
+		"/E/Coding/local-www/drkunst/style.css",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/Prefixr/Default (Windows).sublime-keymap",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/Prefixr/readme.creole",
+		"/E/Coding/local-www/drkunst/index.php",
+		"/E/xampp/php/php.ini",
+		"/E/Coding/local-www/drkunst/.gitignore",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/User/Gist.sublime-settings",
+		"/E/uneart/uneart Aufträge/KKunden/10006 - Malermeister Böddener/20120002/boeddener.sublime-project",
+		"/E/Coding/local-www/dr-kunst/index.php",
+		"/E/Coding/local-www/dr-kunst/wp-config-sample.php",
+		"/C/users/uneart/appdata/local/temp/sublime-sftp-browse-1351365673/boeddener/wpws/wp-content/themes/boeddener/header.php",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/boeddener",
+		"/E/uneart/uneart Aufträge/KKunden/10001 - Wellness Peine/Hairless Dream/Website/final/Stand 22.09.2012/css/preise.css",
+		"/E/uneart/uneart Aufträge/KKunden/10001 - Wellness Peine/Hairless Dream/Website/final/Stand 22.09.2012/css/styles.css",
+		"/D/Unpacked/Ma.3.F.du.Eu.GERMAN.AC3D.BDRip.x264-WodkaE.part1.rar",
+		"/E/uneart/uneart Aufträge/KKunden/10001 - Wellness Peine/Hairless Dream/Website/final/Stand 22.09.2012/preise.html",
+		"/E/Coding/local-www/ua2012/src/wp-content/themes/ua2012/library/bones.php",
+		"/E/Coding/local-www/ua2012/src/wp-content/themes/ua2012/functions.php",
+		"/C/Users/uneart/Dropbox/Javakurs/SS2012-final/AB6/HistogramApplet.java",
+		"/E/Coding/local-www/ua2012/src/wp-content/themes/twentyten/style.css",
+		"/C/Users/uneart/AppData/Local/Temp/Temp1_csscomb-for-sublime_text_2-2-10.zip/src/plugins/csscomb.sublime_text_2/README.md",
+		"/D/Documents/Uni/Managerial Economics/Managerial Economics-Übungen-Daniel.pdf",
+		"/E/Coding/local-www/ua2012/.gitignore",
+		"/E/Coding/local-www/ua2012/src/.htaccess",
+		"/E/xampp/apache/conf/httpd.conf",
+		"/E/Coding/local-www/ua2012/src/.gitignore",
+		"/E/Coding/local-www/ua2012/src/index.php",
+		"/E/Coding/local-www/ua2012/src/wp-config.php",
+		"/E/Coding/local-www/ua2012/src/local-config.php",
+		"/E/Coding/local-www/ua2012/src/wp-config-sample.php",
+		"/E/xampp/htdocs/wp-dev-341/wp-content/themes/wp-starty/wp-starty.sublime-workspace",
+		"/E/xampp/htdocs/wp-dev-341/wp-content/themes/wp-starty/.gitignore",
+		"/E/xampp/htdocs/wp-dev-341/wp-content/themes/wp-starty/wp-starty.sublime-project",
+		"/E/xampp/htdocs/wp-dev-341/wp-content/themes/wp-starty/footer.php",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/Gist/Gist.sublime-settings",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/User/Git.sublime-settings",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/E/xampp/htdocs/wp-dev-341/wp-content/themes/wp-starty/gitpull.php",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tab",
+			"value",
+			"font_size",
+			"completion",
+			"BODY",
+			"body",
+			"import",
+			"_mixins",
+			"less",
+			"_normalize",
+			"import",
+			"\n@",
+			"import",
+			"testline",
+			"focus_group",
+			"debug",
+			"bones-pink",
+			"extension\n",
+			"extension curl\n",
+			"*/\n",
+			"jquery",
+			"jQuery",
+			"jquery",
+			"rsd_link",
+			"                   ",
+			"jquery",
+			"jQuery",
+			"jquery",
+			"rsd_link",
+			"load_theme_textdomain",
+			" \n",
+			"bones_footer_links",
+			"menu",
+			"    		",
+			"AllowOver",
+			"mod_rew"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 120.0
+	},
+	"output.sftp":
+	{
+		"height": 98.0
+	},
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"base",
+				"wp/wp-content/themes/prokto/library/scss/_base.scss"
+			],
+			[
+				"grid",
+				"wp/wp-content/themes/prokto/library/scss/_grid.scss"
+			],
+			[
+				"gridscss",
+				"wp/wp-content/themes/prokto/library/scss/_grid.scss"
+			],
+			[
+				"scssgrid",
+				"wp/wp-content/themes/prokto/library/scss/_grid.scss"
+			],
+			[
+				"scssbase",
+				"wp/wp-content/themes/prokto/library/scss/_base.scss"
+			],
+			[
+				"side",
+				"wp/wp-content/themes/prokto/sidebar.php"
+			],
+			[
+				"header",
+				"wp/wp-content/themes/prokto/header.php"
+			],
+			[
+				"page",
+				"wp/wp-content/themes/prokto/page.php"
+			],
+			[
+				"bones",
+				"wp/wp-content/themes/prokto/library/bones.php"
+			],
+			[
+				"footer",
+				"wp/wp-content/themes/prokto/footer.php"
+			],
+			[
+				"/prokto/",
+				"wp/wp-content/themes/prokto/index.php"
+			],
+			[
+				"func",
+				"wp/wp-content/themes/prokto/functions.php"
+			],
+			[
+				"lessmixi",
+				"wp/wp-content/themes/prokto/library/less/_mixins.less"
+			],
+			[
+				"scssmixin",
+				"wp/wp-content/themes/prokto/library/scss/_mixins.scss"
+			],
+			[
+				"lesssty",
+				"wp/wp-content/themes/prokto/library/less/style.less"
+			],
+			[
+				"proktostyle",
+				"wp/wp-content/themes/prokto/library/css/style.css"
+			],
+			[
+				"style",
+				"wp/wp-content/themes/prokto/library/css/style.css"
+			],
+			[
+				"sty",
+				"wp/wp-content/themes/prokto/style.css"
+			],
+			[
+				"scss",
+				"wp/wp-content/themes/prokto/library/scss/style.scss"
+			],
+			[
+				"proktoheader",
+				"wp/wp-content/themes/prokto/header.php"
+			],
+			[
+				"loca",
+				"local-config.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/uneart/uneart Aufträge/KKunden/10010 - Kunst/20120006/webdata/drkunst-20120006.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true
+}

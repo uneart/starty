@@ -70,6 +70,12 @@ You can change the names and dimensions to whatever
 you like. Enjoy!
 */
 
+/************* EDITOR STYLE *********************/
+
+// This theme styles the visual editor with editor-style.css to match the theme style.
+add_editor_style();
+
+
 /************* ACTIVE SIDEBARS ********************/
 
 // Sidebars & Widgetizes Areas

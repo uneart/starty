@@ -19,7 +19,7 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 81.0,
+		"height": 127.0,
 		"selected_items":
 		[
 			[
@@ -252,7 +252,41 @@
 	},
 	"file_history":
 	[
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/index.php",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/library/scss/foundation/_foundation.scss",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/library/scss/style.scss",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/library/scss/ie.scss",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/library/css/ie.css",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/library/scss/login.scss",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/taxonomy-custom_cat.php",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/single.php",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/single-custom_type.php",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/library/scss/foundation/_grid-settings.scss",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/sidebar.php",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/header.php",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/footer.php",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/library/scss/foundation/_mqueries.scss",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/page.php",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/search.php",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/page-custom.php",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/archive-custom_type.php",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/archive.php",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/404.php",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/.gitignore",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/library/scss/_grid-foundation.scss",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/library/scss/foundation/_grid-foundation.scss",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/library/scss/foundation/foundation.scss",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/library/scss/foundation/_grid-froundation.scss",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/library/scss/foundation/.grid-froundation.scss",
 		"/E/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/E/Coding/local-www/foundation/config/deploy.rb",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/library/scss/foundation/_grid-calc.scss",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/_grid-found.scss",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/foundation/_grid-settings.scss",
+		"/E/Coding/local-www/wp-dev-341/wp-content/themes/uneart-bones/_grid-settings.scss",
+		"/foundation/_grid-settings.scss",
+		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
 		"/E/Coding/Webdesign Startpaket/Responsive Frameworks/foundation-master/scss/foundation/mixins/_css-triangle.scss",
 		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/library/scss/_grid.scss",
 		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/functions.php",
@@ -261,7 +295,6 @@
 		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/library/bones.php",
 		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/page.php",
 		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/header.php",
-		"/C/Windows/System32/drivers/etc/hosts",
 		"/C/Users/uneart/AppData/Local/Temp/fz3temp-1/configuration.php",
 		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/sidebar.php",
 		"/E/Coding/local-www/drkunst/wp/wp-content/themes/prokto/library/scss/_base.scss",
@@ -296,7 +329,6 @@
 		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/emmet-sublime-master/Default (Windows).sublime-keymap",
 		"/E/Coding/local-www/drkunst/test",
 		"/E/Coding/local-www/drkunst/style.css",
-		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
 		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/Prefixr/Default (Windows).sublime-keymap",
 		"/C/Users/uneart/AppData/Roaming/Sublime Text 2/Packages/Prefixr/readme.creole",
 		"/E/Coding/local-www/drkunst/index.php",
@@ -357,6 +389,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"mobile-four",
+			"mobile",
+			"three",
+			"four",
+			"local",
+			"testjoomla",
 			"tab",
 			"value",
 			"font_size",
@@ -413,6 +451,11 @@
 			"sheets":
 			[
 			]
+		},
+		{
+			"sheets":
+			[
+			]
 		}
 	],
 	"incremental_find":
@@ -432,11 +475,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -464,6 +514,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"scssfound",
+				"library/scss/foundation/_mqueries.scss"
+			],
 			[
 				"base",
 				"wp/wp-content/themes/prokto/library/scss/_base.scss"

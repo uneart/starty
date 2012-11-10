@@ -161,5 +161,12 @@ function bones_wpsearch($form) {
     return $form;
 } // don't remove this bracket!
 
+/************* E-MAIL LINK SHORTCODE *****************/
 
+function munge_mail_shortcode( $atts , $content=null ) {
+    $encodedmail = "";
+    for ($i = 0; $i < strlen($content); $i++) $encodedmail .= "&#" . ord($content[$i]) . ';';   
+    return '<a href="mailto:'.$encodedmail.'">'.$encodedmail.'</a>';  
+}  
+add_shortcode('mailto', 'munge_mail_shortcode');
 ?>

@@ -1,14 +1,10 @@
-			<footer class="footer" role="contentinfo">
-			
-				<div id="inner-footer" class="wrap clearfix">
-					
+			<footer class="footer row" role="contentinfo">
+
 					<nav role="navigation">
     					<?php bones_footer_links(); ?>
 	                </nav>
 	                		
 					<p class="source-org copyright">&copy; <?php echo date('Y'); ?> <?php bloginfo('name'); ?>.</p>
-				
-				</div> <!-- end #inner-footer -->
 				
 			</footer> <!-- end footer -->
 		

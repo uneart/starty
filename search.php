@@ -1,10 +1,8 @@
 <?php get_header(); ?>
 			
-			<div id="content">
-
-				<div id="inner-content" class="wrap clearfix">
-			
-					<div id="main" class="eightcol first clearfix" role="main">
+			<div id="content" class="row">
+						
+				    <div id="main" class="eight columns" role="main">
 				
 						<h1 class="archive-title"><span>Search Results for:</span> <?php echo esc_attr(get_search_query()); ?></h1>
 
@@ -63,9 +61,7 @@
 				    </div> <!-- end #main -->
     			
     			    <?php get_sidebar(); ?>
-    			
-    			</div> <!-- end #inner-content -->
-    
+    			    
 			</div> <!-- end #content -->
 
 <?php get_footer(); ?>
